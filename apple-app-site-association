@@ -3,7 +3,7 @@
 		"apps": [],
 		"details": [
 			{
-				"appID": "JVQH5256R5.com.classplus.test",
+				"appIDs": [ "MPTFN7WG8F.co.myinstitute.app", "JVQH5256R5.co.classplus.app" , "JVQH5256R5.com.classplus.test"],
 				"paths": [ "*"]
 			}
 		]
